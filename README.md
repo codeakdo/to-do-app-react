@@ -6,7 +6,7 @@ Welcome to the **To-Do App**! This is a simple and easy-to-use task manager buil
 
 - ✅ Add new tasks
 - ✏️ Mark tasks as completed
-- 🗑️ Delete tasks
+- 🗑️ Delete tasks to delete tasks press circle in front of the task
 - 📱 Fully responsive design
 
 ## 🛠 Installation & Setup
